@@ -1,7 +1,7 @@
 ```markdown
 # Cognition, Neurodiversity & Long-Term AI Interaction
 
-What changes when someone uses AI not simply to obtain answers, but repeatedly as an external workspace for thinking?
+What changes when someone uses AI not simply to obtain answers, but repeatedly as an external workspace for thinking.
 
 For most of my early life, technology was not a major interest.
 
