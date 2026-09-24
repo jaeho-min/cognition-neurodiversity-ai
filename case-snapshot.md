@@ -10,14 +10,14 @@ Then I learned for the first time that I had been diagnosed with ADHD in childho
  
 The historical record includes: 
  
-- Full Scale IQ: 112 
-- Verbal IQ: 118 
-- Performance IQ: 103 
-- Examiner-estimated intellectual potential: approximately 128+ 
-- visual and auditory attention difficulties 
-- impulsivity 
-- variable response times 
-- ADHD diagnostic impression 
+· Full Scale IQ: 112 
+· Verbal IQ: 118 
+· Performance IQ: 103 
+· Examiner-estimated intellectual potential: approximately 128+ 
+· visual and auditory attention difficulties 
+· impulsivity 
+· variable response times 
+· ADHD diagnostic impression 
  
 These are historical findings from childhood, not a description of my current adult cognitive profile. 
  
@@ -67,22 +67,22 @@ But the analogy is useful.
  
 Systems can have: 
  
-- constraints 
-- dependencies 
-- bottlenecks 
-- failure modes 
-- recovery paths 
-- overhead 
+· constraints 
+· dependencies 
+· bottlenecks 
+· failure modes 
+· recovery paths 
+· overhead 
  
 Cognition may have its own forms of overhead. 
  
 For example: 
  
-- holding too much context in working memory 
-- repeatedly reconstructing information 
-- switching between competing thoughts 
-- organizing incomplete ideas 
-- losing context after interruption 
-- repeatedly solving the same organizational problem from scratch 
+· holding too much context in working memory 
+· repeatedly reconstructing information 
+· switching between competing thoughts 
+· organizing incomplete ideas 
+· losing context after interruption 
+· repeatedly solving the same organizational problem from scratch 
  
 My working hypothesis is that some of this cognitive overhead can be reduced if useful structures are made explicit and repeatable. 
