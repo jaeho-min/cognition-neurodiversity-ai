@@ -13,7 +13,8 @@ My stronger interests were generally in language, communication and conceptual e
 Years later, sustained interaction with AI began to change the way I worked with problems.
 
 I increasingly used LLMs not simply to generate answers, but as an external cognitive workspace
-: to externalize incomplete thoughts, make assumptions visible, structure problems, identify dependencies and bottlenecks, compare competing explanations, map failure and recovery paths, turn decisions into actions, and bring real-world results back for another round of analysis.
+: to externalize incomplete thoughts, make assumptions visible, structure problems, identify dependencies and bottlenecks, 
+compare competing explanations, map failure and recovery paths, turn decisions into actions, and bring real-world results back for another round of analysis.
 
 The recurring loop became:
 
@@ -21,7 +22,8 @@ The recurring loop became:
 
 Over time, this began to feel less like a way of using a tool and more like a change in how I approached problems themselves.
 
-Problems that had previously appeared as separate events increasingly became easier to represent in terms of structure, dependencies, constraints, bottlenecks, failure points, alternative paths and recovery paths.
+Problems that had previously appeared as separate events increasingly became easier to represent in terms of 
+structure, dependencies, constraints, bottlenecks, failure points, alternative paths and recovery paths.
 
 My interests changed alongside that process.
 
@@ -31,7 +33,8 @@ Only after noticing these changes, I began to search the psychological records f
 
 Through that search, I recently obtained a hospital-certified copy of a psychological assessment conducted at approximately age nine at a university hospital in South Korea.
 
-It was then - approximately 22 years after the assessment - that I learned for the first time that I had been diagnosed with ADHD in childhood and that the assessment had documented attention and performance-regulation difficulties.
+It was then - approximately 22 years after the assessment 
+- that I learned for the first time that I had been diagnosed with ADHD in childhood and that the assessment had documented attention and performance-regulation difficulties.
 
 I had never taken medication for ADHD.
 
