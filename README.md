@@ -40,8 +40,8 @@ I had never taken medication for ADHD.
 
 The order matters:
 
-· The perceived change came first.
-· The discovery of the childhood ADHD record came later.
+- The perceived change came first.
+- The discovery of the childhood ADHD record came later.
 
 That sequence created the central question of this project:
 
@@ -49,13 +49,13 @@ That sequence created the central question of this project:
 
 Was it:
 
-· measured cognitive ability,
-· better access to abilities that had previously been inconsistently expressed,
-· learned cognitive and executive strategies,
-· internalization of problem-solving patterns repeatedly practiced with AI,
-· performance improvement only while AI is available,
-· ordinary adult development and accumulated experience,
-· or some combination of these?
+- measured cognitive ability,
+- better access to abilities that had previously been inconsistently expressed,
+- learned cognitive and executive strategies,
+- internalization of problem-solving patterns repeatedly practiced with AI,
+- performance improvement only while AI is available,
+- ordinary adult development and accumulated experience,
+- or some combination of these?
 
 This repository does not assume an answer.
 
