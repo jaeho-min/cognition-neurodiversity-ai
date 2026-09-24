@@ -5,17 +5,19 @@ What changes when someone uses AI not simply to obtain answers, but repeatedly a
 
 For most of my early life, technology was not a major interest.
 
-I grew up in South Korea in an educational environment that I experienced as highly standardized, while struggling with sustained attention from childhood. My interests moved across very different areas — including ice hockey, cosmetology, DJing and fashion. I initially studied a fashion-related subject and later completed a degree in business.
+I grew up in South Korea in an educational environment that I experienced as highly standardized, while struggling with sustained attention from childhood. 
+My interests moved across very different areas — including ice hockey, cosmetology, DJing and fashion. I initially studied a fashion-related subject and later completed a degree in business.
 
 My stronger interests were generally in language, communication and conceptual expression rather than mathematics, science, computing or engineering.
 
 Years later, sustained interaction with AI began to change the way I worked with problems.
 
-I increasingly used LLMs not simply to generate answers, but as an external cognitive workspace: to externalize incomplete thoughts, make assumptions visible, structure problems, identify dependencies and bottlenecks, compare competing explanations, map failure and recovery paths, turn decisions into actions, and bring real-world results back for another round of analysis.
+I increasingly used LLMs not simply to generate answers, but as an external cognitive workspace
+: to externalize incomplete thoughts, make assumptions visible, structure problems, identify dependencies and bottlenecks, compare competing explanations, map failure and recovery paths, turn decisions into actions, and bring real-world results back for another round of analysis.
 
 The recurring loop became:
 
-> Think → Externalize → Structure → Test → Observe → Revise
+> Think -> Externalize -> Structure -> Test -> Observe -> Revise
 
 Over time, this began to feel less like a way of using a tool and more like a change in how I approached problems themselves.
 
