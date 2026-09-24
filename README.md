@@ -18,7 +18,7 @@ compare competing explanations, map failure and recovery paths, turn decisions i
 
 The recurring loop became:
 
-> Think -> Externalize -> Structure -> Test -> Observe -> Revise
+Think -> Externalize -> Structure -> Test -> Observe -> Revise
 
 Over time, this began to feel less like a way of using a tool and more like a change in how I approached problems themselves.
 
