@@ -1,5 +1,3 @@
-02-ai-as-an-external-laboratory.md
-
 ## AI as an external laboratory 
  
 This is where AI became especially useful to me. 
